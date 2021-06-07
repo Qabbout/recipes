@@ -26,7 +26,7 @@ export default {
       },
     },
     {
-      name: "mainimage",
+      name: "mainImage",
       title: "Recipe Main Image",
       type: "image",
       options: {
